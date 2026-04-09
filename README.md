@@ -12,3 +12,4 @@ This repository contains solutions for a multi-disciplinary technical assessment
 1. Run the `.sql` setup scripts in a MySQL environment.
 2. Open the `.xlsx` file in Excel or Google Sheets to view formula logic.
 3. Run Python scripts using `python3 <filename>.py`.# Data_Analyst_Assignment
+# Data_Analyst_Assignment
