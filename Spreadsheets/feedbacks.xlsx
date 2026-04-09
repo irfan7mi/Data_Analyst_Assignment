@@ -1,0 +1,5 @@
+Column,Header,Formula / Logic
+A,cms_id,vew-iuvd-12
+B,feedback_at,2021-08-21 13:26:48
+C,feedback_rating,3
+D,ticket_created_at,"=INDEX(ticket!$B:$B, MATCH(A2, ticket!$E:$E, 0))"

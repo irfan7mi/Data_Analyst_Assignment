@@ -1,0 +1,3 @@
+Outlet ID,Tickets Closed Same Day,Tickets Closed Same Hour
+wrqy-juv-978,"=COUNTIFS(ticket!$D:$D, A2, ticket!$F:$F, TRUE)","=COUNTIFS(ticket!$D:$D, A2, ticket!$G:$G, TRUE)"
+8woh-k3u-23b,"=COUNTIFS(ticket!$D:$D, A3, ticket!$F:$F, TRUE)","=COUNTIFS(ticket!$D:$D, A3, ticket!$G:$G, TRUE)"
